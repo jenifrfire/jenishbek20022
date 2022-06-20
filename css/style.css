@@ -1,0 +1,48 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+    color: #000;
+    background-color: #fff;
+}
+.conteiner {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+*{
+    text-decoration: none;
+    list-style-type: none;
+}
+.footer{
+    height: 190px;
+    background-color: #000F43;
+}
+.menu_footer{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.footer-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.ul__menu{
+   margin: 119px 82px 0px 0px;
+}
+.link_menu{
+    color: rgb(255, 255, 255);
+    margin: 20px 0;
+}
+.social_network p{
+    text-align: center;
+    color: #fff;
+}
+.logo{
+    display: none;
+}
+.logo1{
+    display: none;
+}
